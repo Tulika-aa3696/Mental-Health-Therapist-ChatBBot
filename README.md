@@ -44,7 +44,7 @@ The front-end interface (`Index.html`) provides a user-friendly platform for int
 1. Clone this repository
 
 ```
-git clone https://github.com/Rogendo/Mental-health-Chatbot.git
+git clone https://github.com/Tulika-aa3696/Mental-Health-Therapist-ChatBot.git
 ```
 ```
 cd Mental-health-Chatbot/
